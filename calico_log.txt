@@ -1,0 +1,8 @@
+compile .................................. PASSED
+case_1 ................................... FAILED
+case_2 ................................... FAILED
+case_3 ................................... FAILED
+Grade: 0 / 0
+
+
+I have different sets of rooms, however priority gain is the same
